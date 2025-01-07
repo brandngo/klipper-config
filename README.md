@@ -6,6 +6,7 @@ Also see [Voron 2.4](https://github.com/VoronDesign/Voron-2) if you don't know w
 Since then, a lot of hardware and software mods have been added by me so here is a klipper config dump with the macros i've created/repurposed/procured. 
 Some of the mods:
 - [Tapchanger](https://github.com/viesturz/tapchanger)
+- [CANbus](https://github.com/bigtreetech/EBB) for all toolheads
 - [Bedfans] i'll add the link soon
 - WIP on [Blobifier](https://github.com/Dendrowen/Blobifier)
 - more...
