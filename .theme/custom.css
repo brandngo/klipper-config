@@ -1,0 +1,14 @@
+#page-container > div > div > div.col-7.col > div.v-card.v-sheet.theme--dark.panel.webcam-panel.mb-3.mb-md-6 > div > div > div > div > div > div > div {  
+  flex-direction: column !important;
+}
+
+#page-container > div > div > div.col-7.col > div.v-card.v-sheet.theme--dark.panel.webcam-panel.mb-3.mb-md-6 > div > div > div > div > div > div > div > div:nth-child(1) {
+  flex: 0 0 80% !important;  
+  max-width: 80% !important;
+}
+
+#page-container > div > div > div.col-7.col > div.v-card.v-sheet.theme--dark.panel.webcam-panel.mb-3.mb-md-6 > div > div > div > div > div > div > div > div:nth-child(2){
+  flex: 0 0 80% !important;  
+  max-width: 80% !important;
+}
+
